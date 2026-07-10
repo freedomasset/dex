@@ -1,0 +1,93 @@
+{
+  "name": "Freedom Asset TT Chain",
+  "version": {
+      "major": 8,
+      "minor": 0,
+      "patch": 0
+  },
+  "keywords": [],
+  "logoURI": "/favicon.png",
+  "timestamp": "2025-11-24T19:50:48.977Z",
+  "tokens": [
+      {
+          "chainId": 1679,
+          "address": "0xe4337436E4d68efd44C7a8e864283A7349c83A2f",
+          "name": "Wrapped TT",
+          "symbol": "WTT",
+          "decimals": 18,
+          "logoURI": "/images/ttChainIcon.png"
+      },
+      {
+          "chainId": 1679,
+          "address": "0xbb50391EdcEb7718cD4C251CE50193f8563a99a3",
+          "name": "ATT",
+          "symbol": "ATT",
+          "decimals": 18
+      },
+      {
+          "chainId": 1679,
+          "address": "0xB41f11BCb7cA879567D6cE9B6f7Fe8D0Fbb9Fc6f",
+          "name": "Wrapped Ether",
+          "symbol": "WETH",
+          "decimals": 18
+      },
+      {
+          "chainId": 1679,
+          "address": "0x6Ef08B52430c7304Ce789D2004d863279Ce2eB78",
+          "name": "Tether USD",
+          "symbol": "USDT",
+          "decimals": 6
+      },
+      {
+          "chainId": 1679,
+          "address": "0xEa6a67b8688a44d135BFE9c9A9a3a0769CD6A9c1",
+          "name": "USDC",
+          "symbol": "USDC",
+          "decimals": 6,
+          "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+      },
+      {
+          "chainId": 1679,
+          "address": "0x4AFDEc5C8635746200ABf507AC930791907E1764",
+          "name": "TTUSD",
+          "symbol": "TTUSD",
+          "decimals": 18
+      },
+      {
+          "chainId": 1679,
+          "address": "0x2ad17909535249Fafd76917290cf73b8F2F942CF",
+          "name": "MyUSDC",
+          "symbol": "MyUSDC",
+          "decimals": 6
+      },
+      {
+          "chainId": 1679,
+          "address": "0xC7ED37e83335355614011FbA705f731FDeFc2463",
+          "name": "001RWA",
+          "symbol": "001RWA",
+          "decimals": 18
+      },
+      {
+          "chainId": 1679,
+          "address": "0x96d9526BFf59168C2777ee93f287399F9D77da62",
+          "name": "Test",
+          "symbol": "Test",
+          "decimals": 18,
+          "logoURI": "/images/ttChainIcon.png"
+      },
+      {
+          "chainId": 1679,
+          "address": "0x925f41C915440baad15D494a8451bF4d6E7F46A7",
+          "name": "Timer",
+          "symbol": "Timer",
+          "decimals": 18
+      },
+      {
+          "chainId": 1679,
+          "address": "0x65bcF53B28192D9cfA1f4D004972e8b9fBFba3Fb",
+          "name": "Wrapped BTC",
+          "symbol": "WBTC",
+          "decimals": 8
+      }
+  ]
+}

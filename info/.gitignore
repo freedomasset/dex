@@ -1,0 +1,11 @@
+node_modules
+.DS_Store
+build
+build/*
+.vscode/
+.yarn/cache
+.yarn/install-state.gzß
+.env
+.env.*
+!.env.example
+src/lib/sanity/.env.local

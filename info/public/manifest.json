@@ -1,0 +1,16 @@
+{
+  "short_name": "Freedom Asset",
+  "name": "Freedom Asset Info",
+  "icons": [
+    {
+      "src": "./images/smallIcon.png",
+      "sizes": "50x50",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "orientation": "portrait",
+  "display": "standalone",
+  "theme_color": "#3d5afe",
+  "background_color": "#fff"
+}

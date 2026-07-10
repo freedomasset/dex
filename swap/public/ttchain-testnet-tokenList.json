@@ -1,0 +1,92 @@
+{
+  "name": "TT Chain Testnet",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "keywords": ["tt chain", "testnet"],
+  "logoURI": "/favicon.png",
+  "timestamp": "2025-02-28T00:00:00.000Z",
+  "tokens": [
+    {
+      "chainId": 167901,
+      "address": "0xe4337436e4d68efd44c7a8e864283a7349c83a2f",
+      "name": "Wrapped TT",
+      "symbol": "WTT",
+      "decimals": 18,
+      "logoURI": "/favicon.png"
+    },
+    {
+      "chainId": 167901,
+      "address": "0xb55ae6da6dcf590470cf001b5a0eee3361d0df02",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "chainId": 167901,
+      "address": "0x6a6684d339f9442b1a51a17b2918bb73c73958f5",
+      "name": "ATT",
+      "symbol": "ATT",
+      "decimals": 18
+    },
+    {
+      "chainId": 167901,
+      "address": "0xaa0946fe81294a7cd06d09dbfd3028c2d93f0e2d",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18
+    },
+    {
+      "chainId": 167901,
+      "address": "0x2958c2be9a2c57b8073c32245bb6eb04b867739c",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6
+    },
+    {
+      "chainId": 167901,
+      "address": "0x642e3fdfc6bc068e93358a0cd46960913e86b610",
+      "name": "TTUSD",
+      "symbol": "TTUSD",
+      "decimals": 18
+    },
+    {
+      "chainId": 167901,
+      "address": "0xb4f9521c1f442cbde0c2d97831f6faab97edbcaa",
+      "name": "MyUSDC",
+      "symbol": "MyUSDC",
+      "decimals": 6
+    },
+    {
+      "chainId": 167901,
+      "address": "0xa504310056c2991eb7529e3d5562866af0eb5f37",
+      "name": "001RWA",
+      "symbol": "001RWA",
+      "decimals": 18
+    },
+    {
+      "chainId": 167901,
+      "address": "0x8606ca33f122c15f3d5891a1595041545f6b3df8",
+      "name": "Test",
+      "symbol": "Test",
+      "decimals": 18
+    },
+    {
+      "chainId": 167901,
+      "address": "0xdada392abb6630b2ad06bdd68084b4de01f0dfd8",
+      "name": "Timer",
+      "symbol": "Timer",
+      "decimals": 18
+    },
+    {
+      "chainId": 167901,
+      "address": "0x5cbcc957045756fdb5dc1a3a60518281a947617e",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": 8
+    }
+  ]
+}
