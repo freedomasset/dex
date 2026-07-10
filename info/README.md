@@ -132,10 +132,9 @@ This project is licensed under [GPL-3.0](LICENSE).
 
 ## Links
 
-- Website: [freedomasset.global](https://freedomasset.global)
 - Trading interface: [dex.freedomasset.global](https://dex.freedomasset.global)
 - Analytics dashboard (mainnet): [dashboard.freedomasset.global](https://dashboard.freedomasset.global)
 - Analytics dashboard (testnet): [dashboard-testnet.freedomasset.global](https://dashboard-testnet.freedomasset.global)
 - Repository: [github.com/freedomasset/dex](https://github.com/freedomasset/dex)
 
-For questions, visit [freedomasset.global](https://freedomasset.global) or open an issue in the repository.
+For questions, open an issue in the repository.
